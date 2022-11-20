@@ -1,0 +1,68 @@
+
+html{
+    scroll-behavior: smooth;
+}
+.content{
+    position: absolute;
+    top:50%;
+    left: 10%;
+    color: white;
+    width: 60%;
+}
+.carousel-item{
+    position: relative;
+}
+.one{
+    width: 25%;
+    font-size: 15px;
+    text-align: center;
+}
+.one h1{
+    font-size: 30px;
+}
+.second{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+.one img{
+    width: 50%;
+    border-radius: 50%;
+    height:145px;
+}
+.one .btn{
+    font-size: 1em;
+    background-color: gray;
+    color: white;
+    border: none;
+}
+.line{
+    padding-top: 20px;
+    width: 95%;
+    padding-left: 80px;
+}
+.third{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.third img{
+    width: 300px;
+    height: 300px;
+}
+.content1{
+    padding-top: 50px;
+    width: 50%;
+    
+}
+.four{
+    text-align: center;
+    padding-bottom: 30px;
+   
+}
+.four a{
+    text-decoration: none;
+    color: black;
+}
